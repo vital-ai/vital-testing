@@ -40,6 +40,13 @@
             <version>0.8.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>vital-ai</groupId>
+            <artifactId>vital-domain</artifactId>
+            <version>0.8.0</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
