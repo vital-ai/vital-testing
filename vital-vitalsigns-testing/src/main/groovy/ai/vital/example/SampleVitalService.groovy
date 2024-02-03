@@ -59,7 +59,7 @@ class SampleVitalService {
 
 		println "Validate: " + service.validate()
 
-		
+
 
 		// VitalSegment wordnet = service.getSegment('wordnet')
 		
@@ -105,8 +105,7 @@ class SampleVitalService {
 		def i = 1
 		
 		list.each { println i++ + ": " + it.URI + " : " + it.name }
-		
-		
+
 		// Find the graph of all words with "happy" in its name and what it's connected to (one edge hop)
 		
 		VitalGraphQuery q2 = builder.query {
