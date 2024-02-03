@@ -7,7 +7,7 @@ import ai.vital.vitalsigns.model.VitalApp
 
 class TestVitalSigns {
 
-    static void main(String[] args) {
+    static void main( args) {
 
         TestVitalSigns test = new TestVitalSigns()
 
